@@ -1,4 +1,6 @@
-Welcome to your new dbt project!  Make changes here as your project evolves.
+This project is based on the [dbt Fundamentals course](https://courses.getdbt.com/courses/fundamentals).
+
+Load the source data into your warehouse using this [documentation](https://docs.getdbt.com/guides/redshift?step=3) or similar for your data warehouse of choice.
 
 ### Using the starter project
 
